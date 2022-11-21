@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brijesh Vaghela 
-- 👀 I’m interested in Data Analysis. 
-- 🌱 I’m currently workong iwth Python, SQL , Excel & Tableau.
-- 💞️ I’m looking to collaborate on data analytics project.
-- 📫 How to reach me **vaghelabrijesh.1998@gmail.com**
--  
+- 👀 I’m interested in Data Analytics.
+- 🌱 I’m currently workong iwth Python, SQL & Tableau.
+- 💞️ I’m looking to collaborate on API projects and data analytics project.
+- 📫 How to reach me _brijesh_vaghela on instagram.
