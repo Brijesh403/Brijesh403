@@ -1,4 +1,4 @@
-> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&duration=1500&pause=700&color=56FFF7&center=False&multiline=true&width=500&height=70&lines=Welcome+to+Brijesh+Vaghela's+Git+Hub+Profile...;Hope+you+have+a+great+day+ahead...+%F0%9F%98%84" alt="Typing SVG" /></a>
+> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=La+Belle+Aurore&duration=1500&pause=700&color=56FFF7&center=False&multiline=true&width=500&height=60&lines=Welcome+to+Brijesh+Vaghela's+Git+Hub+Profile...;Hope+you+have+a+great+day+ahead...+%F0%9F%98%84" alt="Typing SVG" /></a>
  ---
 # Hi, I’m **Brijesh Vaghela** 👋
 - 👀 I’m interested in Data Analytics sector.
