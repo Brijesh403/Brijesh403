@@ -5,32 +5,9 @@
 - 🌱 I’m currently working with Python, SQL, R studios & Tableau.
 - 💞️ I’m looking to collaborate on data analytics and visulization projects.
 - 📫 How to reach me vaghelabrijesh.1998@gmail.com on Gmail.
-- 🤵 [Linked In Profile](https://www.linkedin.com/in/brijesh-vaghela-2b398217a)
+- 🤵 Wnna know more lets connect on [my Linked in profile](https://www.linkedin.com/in/brijesh-vaghela-2b398217a)
 ---
 <!-- ---
 > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=53F7EF&center=false&multiline=true&width=1000&height=115&lines=A+thorough+and+meticulous+person+passionate+about+helping+in+business+growth.;+Former+small+business+owner.;Proficient+in+Python%2C+SQL%2C+Microsoft+Excel%2C+R+Studio%2C+and+Tableau.;+Possessing+strong+technical+skills+rooted+in+substantial+training+as+an+engineer.++" alt="Typing SVG" /></a>
 
 ---
-
-	<div class="sea">
-		<div class="circle-wrapper">
-			<div class="bubble"></div>
-			<div class="submarine-wrapper">
-				<div class="submarine-body">
-					<div class="window"></div>
-					<div class="engine"></div>
-					<div class="light"></div>
-				</div>
-				<div class="helix"></div>
-				<div class="hat">
-				  <div class="leds-wrapper">
-					  <div class="periscope"></div>
-					  <div class="leds"></div>
-				  </div>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<!-- Link to my website -->
-	<a id="ajerez" href="https://www.linkedin.com/in/brijesh-vaghela-2b398217a/" target="_blank"><img src="https://i.imgur.com/AI4BS2I.png"/></a>
